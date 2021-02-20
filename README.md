@@ -2,6 +2,6 @@
         
 **Este repositório contém ficheiros de tradução de plugins utilizados no Tema Metronic**
 
-|Locale|KDataTable  |
+|Locale|KDataTable  |DataTable
 |:---:|:---:|
-| pt-PT |✔️  |
+| pt-PT |✔️  |✔️  
