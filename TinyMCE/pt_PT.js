@@ -1,4 +1,4 @@
-tinymce.addI18n('pt_PT',{
+const TinyMCETranslations = {
 "Redo": "Refazer",
 "Undo": "Anular",
 "Cut": "Cortar",
@@ -459,4 +459,4 @@ tinymce.addI18n('pt_PT',{
 "Find and replace": "Pesquisar e substituir",
 "Whole words": "Palavras completas",
 "Insert template": "Inserir modelo"
-});
+}
