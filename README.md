@@ -5,3 +5,10 @@
 |Locale|KDataTable|DataTable|TinyMCE
 |:---:|:---:|:---:|:---:|
 | pt-PT |✔️  |✔️  |✔️  
+
+
+** Notas **
+
+TinyMCE inclui tradução para os seguintes plugins:
+
+- Bootstrap4Grid
